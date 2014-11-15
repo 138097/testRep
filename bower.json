@@ -1,0 +1,22 @@
+{
+  "name": "chat-websocket-czc",
+  "version": "0.0.0",
+  "description": "a webChat based on socket.io---just for test",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "char-websocket"
+  ],
+  "authors": [
+    "czcHuskar"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
